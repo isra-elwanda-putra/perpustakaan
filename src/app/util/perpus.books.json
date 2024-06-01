@@ -1,0 +1,216 @@
+[{
+  "_id": {
+    "$oid": "664a461ca1a0ea7625642b1b"
+  },
+  "id": 1,
+  "judulBuku": "Chloe, Queen of Denial",
+  "image": "https://i.ibb.co.com/KFN2CzD/chloe-queen-of-denial.jpg",
+  "penulis": "Naomi Nash"
+},
+{
+  "_id": {
+    "$oid": "664a461ca1a0ea7625642b1c"
+  },
+  "id": 2,
+  "judulBuku": "9 Days Umratan",
+  "image": "https://i.ibb.co.com/sjqjcKb/9-Days-Umratan.jpg",
+  "penulis": "1221"
+},
+{
+  "_id": {
+    "$oid": "664a461ca1a0ea7625642b1d"
+  },
+  "id": 3,
+  "judulBuku": "Kasta, Kita, Kata-kata",
+  "image": "https://i.ibb.co.com/7jmWNr6/Kasta-Kita-Kata-Kata.jpg",
+  "penulis": "1231"
+},
+{
+  "_id": {
+    "$oid": "664a461ca1a0ea7625642b1e"
+  },
+  "id": 4,
+  "judulBuku": "Aidah aku telah kembali",
+  "image": "https://i.ibb.co.com/ZLcYN2S/Aidah-aku-telah-kembali.jpg",
+  "penulis": "1111"
+},
+{
+  "_id": {
+    "$oid": "664a461ca1a0ea7625642b1f"
+  },
+  "id": 5,
+  "judulBuku": "Pelangi di Langit Bali",
+  "image": "https://i.ibb.co.com/qrTk3R6/Pelangi-di-Langit-Bali.jpg",
+  "penulis": "2233"
+},
+{
+  "_id": {
+    "$oid": "664a461ca1a0ea7625642b20"
+  },
+  "id": 6,
+  "judulBuku": "Rahasia Wanita Penuh Pesona",
+  "image": "https://i.ibb.co.com/bXnG7Zt/Rahasia-Wanita-Penuh-Pesona.jpg",
+  "penulis": "3345"
+},
+{
+  "_id": {
+    "$oid": "664a461ca1a0ea7625642b21"
+  },
+  "id": 7,
+  "judulBuku": "Genduk",
+  "image": "https://i.ibb.co.com/w677qg7/Genduk.jpg",
+  "penulis": "4444"
+},
+{
+  "_id": {
+    "$oid": "664a461ca1a0ea7625642b22"
+  },
+  "id": 8,
+  "judulBuku": "Pelajaran Sederhana Luar Biasa",
+  "image": "https://i.ibb.co.com/Gss5GKB/Pelajaran-Sederhana-Luar-Biasa.jpg",
+  "penulis": "2233"
+},
+{
+  "_id": {
+    "$oid": "664a461ca1a0ea7625642b23"
+  },
+  "id": 9,
+  "judulBuku": "The Wind in the Willows",
+  "image": "https://i.ibb.co.com/CnmmzMr/The-Wind-in-the-Willows.jpg",
+  "penulis": "3345"
+},
+{
+  "_id": {
+    "$oid": "664a461ca1a0ea7625642b24"
+  },
+  "id": 10,
+  "judulBuku": "The Amazing",
+  "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg",
+  "penulis": "4444"
+},
+{
+  "_id": {
+    "$oid": "664a461ca1a0ea7625642b25"
+  },
+  "id": 11,
+  "judulBuku": "40 Kiat Mudah Masuk Surga",
+  "image": "https://i.ibb.co.com/3FKxy30/40-Kiat-Mudah-Masuk-Surga.jpg",
+  "penulis": "1234"
+},
+{
+  "_id": {
+    "$oid": "664a461ca1a0ea7625642b26"
+  },
+  "id": 12,
+  "judulBuku": "Menebar Kebaikan Itu Indah",
+  "image": "https://i.ibb.co.com/3dZHPZ5/Menebar-Kebaikan-Itu-Indah.jpg",
+  "penulis": "1221"
+},
+{
+  "_id": {
+    "$oid": "664a461ca1a0ea7625642b27"
+  },
+  "id": 13,
+  "judulBuku": "Kasta, Kita, Kata-kata",
+  "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg",
+  "penulis": "1231"
+},
+{
+  "_id": {
+    "$oid": "664a461ca1a0ea7625642b28"
+  },
+  "id": 14,
+  "judulBuku": "Aidah aku telah kembali",
+  "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg",
+  "penulis": "1111"
+},
+{
+  "_id": {
+    "$oid": "664a461ca1a0ea7625642b29"
+  },
+  "id": 15,
+  "judulBuku": "Log",
+  "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg",
+  "penulis": "2233"
+},
+{
+  "_id": {
+    "$oid": "664a461ca1a0ea7625642b2a"
+  },
+  "id": 16,
+  "judulBuku": "Math Expert",
+  "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg",
+  "penulis": "3345"
+},
+{
+  "_id": {
+    "$oid": "664a461ca1a0ea7625642b2b"
+  },
+  "id": 17,
+  "judulBuku": "Math Medium",
+  "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg",
+  "penulis": "4444"
+},
+{
+  "_id": {
+    "$oid": "664a461ca1a0ea7625642b2c"
+  },
+  "id": 18,
+  "judulBuku": "Log",
+  "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg",
+  "penulis": "2233"
+},
+{
+  "_id": {
+    "$oid": "664a461ca1a0ea7625642b2d"
+  },
+  "id": 19,
+  "judulBuku": "Lengking Burung Kasuari",
+  "image": "https://i.ibb.co.com/C1Q11DB/Lengking-Burung-Kasuari.jpg",
+  "penulis": "3345"
+},
+{
+  "_id": {
+    "$oid": "664a461ca1a0ea7625642b2e"
+  },
+  "id": 20,
+  "judulBuku": "Cool Boy",
+  "image": "https://i.ibb.co.com/3c6Vq9B/Cool-Boy.jpg",
+  "penulis": "Ainun Nufus"
+},
+{
+  "_id": {
+    "$oid": "66550fc8f922d80614df60c3"
+  },
+  "id": 21,
+  "judulBuku": "Ayo Yasinan",
+  "image": "https://i.ibb.co.com/vsNdTH8/Ayo-Yasinan.jpg",
+  "penulis": "Nur Faizin Muhith"
+},
+{
+  "_id": {
+    "$oid": "665520e1f922d80614df60c4"
+  },
+  "id": 22,
+  "judulBuku": "Wanita adalah permata",
+  "image": "https://i.ibb.co.com/qjPWj3h/Wanita-Adalah-Permata.jpg",
+  "penulis": "Amr Abdul Mun'im Salim"
+},
+{
+  "_id": {
+    "$oid": "66553d3cf922d80614df60c5"
+  },
+  "id": "23",
+  "judulBuku": "4G Guru Gaul Guru Galau",
+  "image": "https://i.ibb.co.com/jHkzvr2/4-G-Guru-Gaul-Guru-Galau.jpg",
+  "penulis": "Dedew"
+},
+{
+  "_id": {
+    "$oid": "66553d64f922d80614df60c6"
+  },
+  "id": "24",
+  "judulBuku": "Sahabat Baru Naira",
+  "image": "https://i.ibb.co.com/jHzhLxg/Sahabat-Baru-Naira.jpg",
+  "penulis": "RisTee"
+}]
