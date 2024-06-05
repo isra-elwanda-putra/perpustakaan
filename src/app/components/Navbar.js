@@ -1,36 +1,36 @@
-import React, { useState } from 'react';
+// import React, { useState } from 'react';
 
-const Navbar = () => {
-    const [userRole, setUserRole] = useState('user'); // Ganti 'user' menjadi 'admin' untuk melihat tampilan admin
+// const Navbar = () => {
+//     const [userRole, setUserRole] = useState('user'); // Ganti 'user' menjadi 'admin' untuk melihat tampilan admin
 
-    return (
-        <div className="navbar bg-base-200 shadow-lg">
-            <div className="flex-1 px-2 mx-2">
-                <span className="text-lg font-bold">Perpustakaan XYZ</span>
-            </div>
-            <div className="flex-none">
-                <ul className="menu menu-horizontal p-0">
-                    {userRole === 'admin' ? (
-                        <>
-                            <li><a href="#dashboard">Dashboard</a></li>
-                            <li><a href="#manage-books">Manage Books</a></li>
-                            <li><a href="#return-books">Return Books</a></li>
-                        </>
-                    ) : (
-                        <>
-                            <li><a href="#home">Home</a></li>
-                            <li><a href="#catalog">Catalog</a></li>
-                            <li><a href="#my-books">My Books</a></li>
-                        </>
-                    )}
-                    <li><a href="#logout">Logout</a></li>
-                </ul>
-            </div>
-        </div>
-    );
-};
+//     return (
+//         <div className="navbar bg-base-200 shadow-lg">
+//             <div className="flex-1 px-2 mx-2">
+//                 <span className="text-lg font-bold">Perpustakaan XYZ</span>
+//             </div>
+//             <div className="flex-none">
+//                 <ul className="menu menu-horizontal p-0">
+//                     {userRole === 'admin' ? (
+//                         <>
+//                             <li><a href="#dashboard">Dashboard</a></li>
+//                             <li><a href="#manage-books">Manage Books</a></li>
+//                             <li><a href="#return-books">Return Books</a></li>
+//                         </>
+//                     ) : (
+//                         <>
+//                             <li><a href="#home">Home</a></li>
+//                             <li><a href="#catalog">Catalog</a></li>
+//                             <li><a href="#my-books">My Books</a></li>
+//                         </>
+//                     )}
+//                     <li><a href="#logout">Logout</a></li>
+//                 </ul>
+//             </div>
+//         </div>
+//     );
+// };
 
-export default Navbar;
+// export default Navbar;
 "use client"
 import { useState } from 'react';
 import Link from 'next/link';

@@ -1,4 +1,4 @@
-import { AddressCard, AlamatCard, KontakCard } from "@/app/components/Kontak/page";
+import { AddressCard, AlamatCard, KontakCard } from "@/app/components/Kontak";
 
 const KontakPage = () => {
     return (
