@@ -21,3 +21,27 @@
     text-wrap: balance;
   }
 }
+
+.side-bar-admin-submenu {
+  @apply block px-4 py-3 text-sm text-gray-600 capitalize transition-colors duration-300 transform dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 dark:hover:text-white;
+}
+
+/* .transition-transform {
+    transition: opacity 0.1s ease, transform 0.1s ease;
+}
+
+.opacity-0 {
+    opacity: 0;
+}
+
+.opacity-100 {
+    opacity: 100;
+}
+
+.scale-90 {
+    transform: scale(0.9);
+}
+
+.scale-100 {
+    transform: scale(1);
+} */

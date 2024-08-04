@@ -15,11 +15,8 @@ const AddressCard = () => {
 
     const handleSubmit = async (e) => {
         e.preventDefault();
-
-        console.log("Data yang dikirim:", kontakCardForm);
-
         try {
-            const res = await fetch('http://localhost:5000/perpus/contacts', {
+            const res = await fetch('/api/kontak', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify(kontakCardForm),
